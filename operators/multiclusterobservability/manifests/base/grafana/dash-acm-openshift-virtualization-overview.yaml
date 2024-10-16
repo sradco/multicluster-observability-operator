@@ -100,7 +100,7 @@ data:
         },
         {
           "datasource": null,
-          "description": "Total number of clusters with critical issues that impact the operator health, based on alerts and the operator conditions. This means they lost some core functionality.",
+          "description": "Total number of clusters with critical issues that impact the operator health, which are based on alerts and the operator conditions. This means there is a risk of core functionality loss for your clusters.",
           "fieldConfig": {
             "defaults": {
               "color": {
