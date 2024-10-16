@@ -501,7 +501,7 @@ data:
         },
         {
           "datasource": null,
-          "description": "Total number of clusters with warning level issues that impact the operator health, based on alerts and the operator conditions. This means there is a risk of core functionality loss for your clusters.",
+          "description": "Total number of clusters with warning level issues that impact the operator health, which are based on alerts and the operator conditions. This means there is a risk of core functionality loss for your clusters.",
           "fieldConfig": {
             "defaults": {
               "color": {
